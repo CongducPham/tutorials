@@ -23,6 +23,8 @@ This set of step-by-step tutorials is part of WP2 on "Open IoT Sensing and Commu
 
 **Low-cost-LoRa-GW-web-admin.pdf** explains the web admin interface extension to easily configure and update your gateway.
 
+**Low-cost-LoRa-ImageIoT-step-by-step.pdf** shows how you can build a long-range image sensor based on the Teensy32 and a 4D System uCamII camera. It also explains how the gateway receives and provides display features of the transmitted images. 
+
 **RESSACS16-Low-cost-LoRa-IoT-step-by-step.pdf** shows how you can use the gateway program to have a simple interactive sender node and how you can push data to cloud. This tutorial is kind of complementory to the **Low-cost-LoRa-IoT-step-by-step.pdf** tutorial.
 
 **Low-cost-LoRa-Ghana-iSpace-public-event.pdf** is an other presentation on how to build low-cost IoT with our framework.
