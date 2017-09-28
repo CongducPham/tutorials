@@ -13,15 +13,21 @@ This set of step-by-step tutorials is part of WP2 on "Open IoT Sensing and Commu
 
 **FAQ.pdf** is our low-cost LoRa framework Frequently Asked Questions. It is advised to read it first.
 
+**demo-slides.pdf** is a set of slides that we use for demonstrating our low-cost LoRa IoT framework.
+
 **Low-cost-LoRa-IoT-step-by-step.pdf** shows how to build a simple LoRa IoT sensing device with the simple temperature example and an Arduino Pro Mini, running on 4-AA battery for several months.
 
 **Low-cost-LoRa-IoT-outdoor-step-by-step.pdf** shows how you can improve the design for out-door usage.
+
+**Low-cost-LoRa-device-leaflet.pdf** is a leaflet summarizing the IoT device side.
 
 **Low-cost-LoRa-IoT-supported-sensors.pdf** explains in a didactic manner how physical sensors can be connected and how they can be integrated into our generic framework.
 
 **Low-cost-LoRa-GW-step-by-step.pdf** shows how you can build and configure the LoRa gateway with a Raspberry PI to start pushing data to the cloud.
 
 **Low-cost-LoRa-GW-web-admin.pdf** explains the web admin interface extension to easily configure and update your gateway.
+
+**Low-cost-LoRa-GW-leaflet.pdf** is a leaflet summarizing the gateway side.
 
 **Low-cost-LoRa-ImageIoT-step-by-step.pdf** shows how you can build a long-range image sensor based on the Teensy32 and a 4D System uCamII camera. It also explains how the gateway receives and provides display features of the transmitted images. 
 
