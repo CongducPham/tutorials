@@ -43,12 +43,13 @@ This set of step-by-step tutorials is part of WP2 on "Open IoT Sensing and Commu
 
 **Low-cost-LoRa-IoT-antennaCable.pdf** is a tutorial on how to assemble an antenna cable with SMA and/or N connectors to match your antenna and radio module connectors. This is mainly required when you want to use a higher gain antenna or when you want to place the antenna outdoor and have your gateway indoor to simplify deployment.
 
-**Low-cost-LoRa-Collar.pdf** shows a Cattle Rustling Use Case where a simple beacon collar is used for preventing cattle rustling.
+**Low-cost-LoRa-Collar.pdf** shows a Cattle Rustling use Case where LoRa collar is used for preventing cattle rustling. There are 2 versions: a simple beacon version using only the LoRa radio module and a GPS version with a GPS module (UBlox 6/7/8) where GPS coordinates of the collar can be received. The Arduino code for the collar is available here: [simple beacon](https://github.com/CongducPham/LowCostLoRaGw/tree/master/Arduino/Arduino_LoRa_Simple_BeaconCollar) and [GPS](https://github.com/CongducPham/LowCostLoRaGw/tree/master/Arduino/Arduino_LoRa_GPS).
 
-There are also 2 tutorial videos on YouTube:
+There are also 3 tutorial videos on YouTube:
 
 - [Build your low-cost, long-range IoT device with WAZIUP](https://www.youtube.com/watch?v=YsKbJeeav_M)
-- [Build your low-cost LoRa gateway with WAZIUP](https://www.youtube.com/watch?v=peHkDhiH3lE)
+- [Extreme low-cost & low-power LoRa IoT for real-world deployment](https://www.youtube.com/watch?v=2_VQpcCwdd8)
+- [Build your low-cost LoRa gateway with WAZIUP](https://www.youtube.com/watch?v=mj8ItKA14PY)
 
 that show in images all the steps to build the whole framework from scratch.
 
