@@ -7,6 +7,8 @@ WAZIUP is an H2020 european collaborative research project using cutting edge te
 
 This set of step-by-step tutorials is part of WP2 on "Open IoT Sensing and Communication Platform" describing in images how to build low cost IoT devices and gateways using the LoRa radio technology.
 
+**iot4all-intro-lr** is a vulgarisation presentation showing how the IoT revolution can be made possible for everybody. It reviews the main IoT technologies then presents the WAZIUP's approach for low-cost IoT. The presentation also shows various real-world deployment campaigns done in the context of WAZIUP.
+
 **RESSACS16-LPWAN-review.pdf** is a review of LPWAN technologies, focusing mainly on LoRa.
 
 **smyle-deploying-low-cost-iot.pdf** is a summary of LPWAN, IoT and WAZIUP's objectives when deploying low-cost and long-range Internet of Things in developing countries. This presentation has been made at SMYLE event en September 2016. 
