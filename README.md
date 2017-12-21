@@ -37,11 +37,9 @@ This set of step-by-step tutorials is part of WP2 on "Open IoT Sensing and Commu
 
 **Low-cost-LoRa-Ghana-iSpace-public-event.pdf** is an other presentation on how to build low-cost IoT with our framework.
 
-**Low-cost-LoRa-IoT-using-demo-kit.pdf** explains how to use the out-of-the-box gateway distribution [raspberrypi-jessie-WAZIUP-demo.dmg.zip](http://cpham.perso.univ-pau.fr/LORA/WAZIUP/raspberrypi-jessie-WAZIUP-demo.dmg.zip) and [Arduino_LoRa_Simple_temp sketch](https://github.com/CongducPham/LowCostLoRaGw/tree/master/Arduino/Arduino_LoRa_Simple_temp) example.
-
 **low-cost-iot-hardware-parts.pdf** lists all the parts you need to build both the low-cost device and the gateway.
 
-**Low-cost-LoRa-IoT-using-demo-kit.pdf** explains how the WAZIUP long-range demo kit can be used for demonstration purposes.
+**Low-cost-LoRa-IoT-using-demo-kit.pdf** explains how the WAZIUP long-range demo kit can be used for demonstration purposes. It will show how to use the out-of-the-box gateway distribution [raspberrypi-jessie-WAZIUP-demo.dmg.zip](http://cpham.perso.univ-pau.fr/LORA/WAZIUP/raspberrypi-jessie-WAZIUP-demo.dmg.zip) and the [Arduino_LoRa_Simple_temp sketch](https://github.com/CongducPham/LowCostLoRaGw/tree/master/Arduino/Arduino_LoRa_Simple_temp) example.
 
 **Low-cost-LoRa-IoT-antennaCable.pdf** is a tutorial on how to assemble an antenna cable with SMA and/or N connectors to match your antenna and radio module connectors. This is mainly required when you want to use a higher gain antenna or when you want to place the antenna outdoor and have your gateway indoor to simplify deployment.
 
