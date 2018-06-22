@@ -21,6 +21,8 @@ This set of step-by-step tutorials is part of WP2 on "Open IoT Sensing and Commu
 
 **Low-cost-LoRa-IoT-outdoor-step-by-step.pdf** shows how you can improve the design for out-door usage.
 
+**WAZIUP-Deployment-guidelines.pdf** describes some deployment issues and best practices when deploying IoT and gateways.
+
 **Low-cost-LoRa-device-leaflet.pdf** is a leaflet summarizing the IoT device side.
 
 **Low-cost-LoRa-IoT-supported-sensors.pdf** explains in a didactic manner how physical sensors can be connected and how they can be integrated into our generic framework.
