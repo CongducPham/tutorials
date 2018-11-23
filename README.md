@@ -9,7 +9,13 @@ WAZIUP is an H2020 european collaborative research project using cutting edge te
 
 WAZIHUB (in Swahili for Open-Hub) is an innovation project for Africa aiming to create an open hub of IoT and Big data cutting-edge and African grade solutions, co-designed by African people. The vision of WAZIHUB is to exploit IoT potential and share IoT technologies best-practices through the involvement of innovation communities and stakeholder (e.g. young entrepreneur (including woman), startup, developer, innovation hub) from local district, regional, national and African-wide. The project aims to enable the creation of Open Hubs throughout Africa where IoT technology solutions can then be adapted to match local service needs. The project goal is to iterate and extract value from spining-off value-added IoT innovative services (e.g. monitoring, controlling, data analytic) based on the technologies developed in WAZIUP.
 
-**New online [Arduino-Sensor-LoRa tutorial](http://cpham.perso.univ-pau.fr/LORA/WAZIUP/tuto/index.html) and here is the direct link to the [LoRa part](http://cpham.perso.univ-pau.fr/LORA/WAZIUP/tuto/sensors/lora_sensor/Arduino_lora_demo.html)**
+Online tutorial
+===============
+
+**New online [Arduino-Sensor-LoRa tutorial](http://cpham.perso.univ-pau.fr/LORA/WAZIUP/tuto/index.html) for training, hackathons, bootcamps, entrepreneur's days,...Here is the direct link to the [LoRa part](http://cpham.perso.univ-pau.fr/LORA/WAZIUP/tuto/sensors/lora_sensor/Arduino_lora_demo.html)**
+
+Slide-based tutorials
+===============
 
 This set of step-by-step tutorials is part of WP2 on "Open IoT Sensing and Communication Platform" describing in images how to build low cost IoT devices and gateways using the LoRa radio technology.
 
@@ -52,6 +58,9 @@ This set of step-by-step tutorials is part of WP2 on "Open IoT Sensing and Commu
 **Low-cost-LoRa-IoT-antennaCable.pdf** is a tutorial on how to assemble an antenna cable with SMA and/or N connectors to match your antenna and radio module connectors. This is mainly required when you want to use a higher gain antenna or when you want to place the antenna outdoor and have your gateway indoor to simplify deployment.
 
 **Low-cost-LoRa-Collar.pdf** shows a Cattle Rustling use Case where LoRa collar is used for preventing cattle rustling. There are 2 versions: a simple beacon version using only the LoRa radio module and a GPS version with a GPS module (UBlox 6/7/8) where GPS coordinates of the collar can be received. The Arduino code for the collar is available here: [simple beacon](https://github.com/CongducPham/LowCostLoRaGw/tree/master/Arduino/Arduino_LoRa_Simple_BeaconCollar) and [GPS](https://github.com/CongducPham/LowCostLoRaGw/tree/master/Arduino/Arduino_LoRa_GPS).
+
+Video tutorials
+===============
 
 There are also 3 tutorial videos on YouTube:
 
