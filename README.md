@@ -1,9 +1,15 @@
-H2020 WAZIUP project. Agreement 687607
-======================================
+H2020 WAZIUP & WAZIHUB projects
+===============================
 
 WAZIUP: Open Innovation Platform for IoT-Big data in Sub-Saharan Africa (Fev2016-Jan2019)
 
+WAZIHUB: Accelerating Open IoT and Big Data Innovation in Africa (May2018-Apr2021)
+
 WAZIUP is an H2020 european collaborative research project using cutting edge technological research applications on IoT and related big data management and advanced analytic issues. The project brings liaison with the whole IoT European Research Cluster (IERC) and leading research and development organizations in Africa. The project is driven by a consortium of 5 EU partners and of 7 partners from 4 sub-Saharan African countries. It has support from multiple African stakeholders and public bodies with the aim of defining new innovation space to advance the African Rural Economy. The potential of IoT, in Sub-Saharan Africa, can only be realized if the cost is resolvable as most of the rural population in the Africa is at the poverty level. WAZIUP will take this challenge as the main one to be addressed.
+
+WAZIHUB (in Swahili for Open-Hub) is an innovation project for Africa aiming to create an open hub of IoT and Big data cutting-edge and African grade solutions, co-designed by African people. The vision of WAZIHUB is to exploit IoT potential and share IoT technologies best-practices through the involvement of innovation communities and stakeholder (e.g. young entrepreneur (including woman), startup, developer, innovation hub) from local district, regional, national and African-wide. The project aims to enable the creation of Open Hubs throughout Africa where IoT technology solutions can then be adapted to match local service needs. The project goal is to iterate and extract value from spining-off value-added IoT innovative services (e.g. monitoring, controlling, data analytic) based on the technologies developed in WAZIUP.
+
+**New online [Arduino-Sensor-LoRa tutorial](http://cpham.perso.univ-pau.fr/LORA/WAZIUP/tuto/index.html) and here is the direct link to the [LoRa part](http://cpham.perso.univ-pau.fr/LORA/WAZIUP/tuto/sensors/lora_sensor/Arduino_lora_demo.html)**
 
 This set of step-by-step tutorials is part of WP2 on "Open IoT Sensing and Communication Platform" describing in images how to build low cost IoT devices and gateways using the LoRa radio technology.
 
