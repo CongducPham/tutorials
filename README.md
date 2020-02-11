@@ -22,9 +22,9 @@ This set of step-by-step tutorials is part of WP2 on "Open IoT Sensing and Commu
 IoT, LPWAN
 ----------
 
-- **iot4all-intro-lr** is a vulgarisation presentation showing how the IoT revolution can be made possible for everybody. It reviews the main IoT technologies then presents the WAZIUP's approach for low-cost IoT. The presentation also shows various real-world deployment campaigns done in the context of WAZIUP. **For latest version, see F-IOT-2a and F-IOT-2b courses on http://diy.waziup.io**
+- **iot4all-intro-lr** is a vulgarisation presentation showing how the IoT revolution can be made possible for everybody. It reviews the main IoT technologies then presents the WAZIUP's approach for low-cost IoT. The presentation also shows various real-world deployment campaigns done in the context of WAZIUP. **For latest version, see F-IOT-2a and F-IOT-2b courses on [http://diy.waziup.io](http://diy.waziup.io/index.html#waziup_iot_courses)**
 
-- **LPWAN-review.pdf** is a review of LPWAN technologies, focusing mainly on LoRa. **For latest version, see A-IOT-1 course on http://diy.waziup.io**
+- **LPWAN-review.pdf** is a review of LPWAN technologies, focusing mainly on LoRa. **For latest version, see A-IOT-1 course on [http://diy.waziup.io](http://diy.waziup.io/index.html#waziup_iot_courses)**
 
 - **smyle-deploying-low-cost-iot.pdf** is a summary of LPWAN, IoT and WAZIUP's objectives when deploying low-cost and long-range Internet of Things in developing countries. This presentation has been made at SMYLE event en September 2016. 
 
@@ -37,7 +37,7 @@ Devices
 
 - **low-cost-iot-hardware-parts.pdf** lists all the parts you need to build both the low-cost device and the gateway.
 
-- **Low-cost-LoRa-IoT-step-by-step.pdf** shows how to build a simple LoRa IoT sensing device with the simple temperature example and an Arduino Pro Mini, running on 4-AA battery for several months. **See also D-IOT-1 course on http://diy.waziup.io**
+- **Low-cost-LoRa-IoT-step-by-step.pdf** shows how to build a simple LoRa IoT sensing device with the simple temperature example and an Arduino Pro Mini, running on 4-AA battery for several months. **See also D-IOT-1 course on [http://diy.waziup.io](http://diy.waziup.io/index.html#waziup_iot_courses)**
 
 - **Low-cost-LoRa-IoT-outdoor-step-by-step.pdf** shows how you can improve the design for out-door usage.
 
@@ -52,15 +52,15 @@ Devices
 Gateway
 -------
 
-- **Low-cost-LoRa-GW-step-by-step.pdf** shows how you can build and configure the LoRa gateway with a Raspberry PI to start pushing data to the cloud. **For latest version, see D-GW-1 and D-GW-2 courses on http://diy.waziup.io**
+- **Low-cost-LoRa-GW-step-by-step.pdf** show how you can build and configure the LoRa gateway with a Raspberry PI to start pushing data to the cloud. This tutorial explains in more details the internals and architecture of the low-cost gateway **See also see D-GW-1 and D-GW-2 courses on [http://diy.waziup.io](http://diy.waziup.io/index.html#waziup_iot_courses)**
 
-- **Low-cost-LoRa-GW-web-admin.pdf** explains the web admin interface extension to easily configure and update your gateway. **For latest version, see D-GW-4 course on http://diy.waziup.io**
+- **Low-cost-LoRa-GW-web-admin.pdf** explains the web admin interface extension to easily configure and update your gateway. **For latest version, see D-GW-4 course on [http://diy.waziup.io](http://diy.waziup.io/index.html#waziup_iot_courses)**
 
 - **Low-cost-LoRa-GW-leaflet.pdf** is a leaflet summarizing the gateway side.
 
-- **Low-cost-LoRa-IoT-antennaCable.pdf** is a tutorial on how to assemble an antenna cable with SMA and/or N connectors to match your antenna and radio module connectors. This is mainly required when you want to use a higher gain antenna or when you want to place the antenna outdoor and have your gateway indoor to simplify deployment. **For latest version, see D-GW-3 course on http://diy.waziup.io**
+- **Low-cost-LoRa-IoT-antennaCable.pdf** is a tutorial on how to assemble an antenna cable with SMA and/or N connectors to match your antenna and radio module connectors. This is mainly required when you want to use a higher gain antenna or when you want to place the antenna outdoor and have your gateway indoor to simplify deployment. **For latest version, see D-GW-3 course on [http://diy.waziup.io](http://diy.waziup.io/index.html#waziup_iot_courses)**
 
-- **WAZIUP-Deployment-guidelines.pdf** describes some deployment issues and best practices when deploying IoT and gateways. **For latest version, see D-IOT-2 course on http://diy.waziup.io**
+- **WAZIUP-Deployment-guidelines.pdf** describes some deployment issues and best practices when deploying IoT and gateways. **For latest version, see D-IOT-2 course on [http://diy.waziup.io](http://diy.waziup.io/index.html#waziup_iot_courses)**
 
 Talks
 -----
